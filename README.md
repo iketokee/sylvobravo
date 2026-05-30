@@ -1,80 +1,97 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Sylvester 👋
 
-I'm a passionate **Flutter Developer** with over **3 years of experience** in building beautiful, high-performance, and scalable cross-platform mobile applications. I specialize in creating seamless user experiences and leveraging the power of Flutter to deliver robust solutions for Android, iOS, and web platforms.
+### Full-Stack Developer
 
-## 🚀 Skills & Expertise
+I build scalable web applications from frontend interfaces to backend systems.
 
-- **Flutter Development**: Proficient in building cross-platform applications with Flutter and Dart.
-- **State Management**: Expertise in **Provider**, **Riverpod**, **Bloc/Cubit**, and **GetX**.
-- **UI/UX Design**: Skilled in creating responsive and visually appealing interfaces using Flutter widgets and custom designs.
-- **API Integration**: Experience in integrating RESTful APIs, GraphQL, and WebSocket for real-time applications.
-- **Firebase**: Proficient in Firebase services like **Firestore**, **Authentication**, **Cloud Functions**, and **Push Notifications**.
-- **Version Control**: Strong knowledge of **Git** and collaborative workflows using **GitHub** and **GitLab**.
-- **Testing**: Experience in writing unit tests, widget tests, and integration tests for Flutter apps.
-- **CI/CD**: Familiar with setting up CI/CD pipelines for automated testing and deployment.
-- **Agile Development**: Experience working in Agile/Scrum environments for efficient project delivery.
-
-## 💼 Professional Experience
-
-### Flutter Developer | Aerspeck Ltd | Nov 2023 - Present
-- Developed and maintained **production-ready Flutter applications** for clients across various industries.
-- Collaborated with cross-functional teams to design, develop, and deploy scalable mobile solutions.
-- Optimized app performance, reducing load times by **30%** and improving overall user experience.
-- Integrated third-party libraries and APIs to enhance app functionality.
-- Conducted code reviews and mentored junior developers to ensure code quality and best practices.
-
-### Freelance Flutter Developer | Self-Employed | Sept 2024 - Feb 2025
-- Delivered **custom Flutter applications** for startups and small businesses.
-- Worked closely with clients to understand their requirements and provided tailored solutions.
-- Ensured timely delivery of projects while maintaining high-quality standards.
-
-## 🛠️ Tools & Technologies
-
-- **Languages**: Dart, php
-- **Frameworks**: Flutter
-- **Backend**: Firebase, php
-- **Databases**: Firestore, SQLite, MySQL
-- **Tools**: Android Studio, VS Code, Postman
-- **DevOps**: GitHub Actions
-
-## 🌟 Featured Projects
-
-### [ieMenu](https://iemenu.aerspeck.com)
-- A Flutter-based food delivery app that allows users to browse restaurants, place orders, and track deliveries in real-time.
-- Features include user authentication, menu browsing, cart management, payment integration, and order tracking.
-- Built with Provider for state management and Firebase for backend services.
-- Achieved 4.7/5 rating on the Play Store with over 50,000+ downloads.
-
-### [ieVendor](https://ievendor.aerspeck.com)
-- A vendor-side app designed for restaurant owners to manage orders, update menus, and track sales.
-- Features include order management, menu customization, sales analytics, and push notifications.
-- Integrated with Firebase Firestore for real-time data synchronization and Flutterwave for payment processing.
-- Optimized for both mobile and tablet devices.
-
-### [ieRider](https://ierider.aerspeck.com)
-- A multi-dispatch rider app that enables delivery riders to manage multiple orders simultaneously.
-- Features include real-time order assignment, route optimization, delivery tracking, and earnings dashboard.
-- Built with Provider for state management and Google Maps API for navigation.
-- Designed to handle high volumes of orders efficiently.
-
-## 📫 Let's Connect!
-
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via:
-
-- **Email**: [sylvbravo@gmail.com](mailto:sylvbravo@gmail.com)
-- **LinkedIn**: [linkedin.com/in/sylvobravo](https://linkedin.com/in/sylvobravo)
-- **Twitter**: [@iketoke](https://twitter.com/iketoke)
-- **Portfolio**: [Aerspeck](https://aerspeck.com)
+* ⚡ Building with Next.js, Laravel, Node.js, and TypeScript
+* 🚀 Passionate about creating fast, accessible, and user-focused products
+* 🛠️ Experienced with modern databases and cloud deployments
+* 🌍 Open to remote opportunities and freelance projects
 
 ---
 
-⭐️ **Star** my repositories if you find them useful, and let's build something amazing together! ⭐️
+## Tech Stack
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 
 ---
 
-**Thank you for visiting my profile!** 😊
+## What I Build
 
-<!---
-sylvobravo/sylvobravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✔ SaaS Platforms
+
+✔ Fintech Applications
+
+✔ Admin Dashboards
+
+✔ E-commerce Platforms
+
+✔ REST APIs
+
+✔ AI-Powered Products
+
+✔ Real-Time Applications
+
+---
+
+## Featured Projects
+
+### Investment Dashboard
+
+A modern investment management platform with deposits, withdrawals, portfolio tracking, and analytics.
+
+### Fintech Wallet
+
+Secure wallet solution supporting transactions, account management, and payment processing.
+
+### E-Commerce Platform
+
+Full-featured online store with payment integration, inventory management, and analytics.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## Connect With Me
+
+* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* Portfolio: https://yourwebsite.com
+* Email: [your@email.com](mailto:your@email.com)
+
+---
+
+### Building products, solving problems, and continuously learning.
