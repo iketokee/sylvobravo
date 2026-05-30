@@ -88,10 +88,3 @@ Full-featured online store with payment integration, inventory management, and a
 
 ## Connect With Me
 
-* LinkedIn: https://linkedin.com/in/iketoke
-* Portfolio: https://deviyke.com
-* Email: [hello@deviyke.com](mailto:hello@deviyke.com)
-
----
-
-### Building products, solving problems, and continuously learning.
