@@ -1,4 +1,4 @@
-# Hi, I'm Sylvester 👋
+# Hi, I'm Iketoke 👋
 
 ### Full-Stack Developer
 
@@ -88,9 +88,9 @@ Full-featured online store with payment integration, inventory management, and a
 
 ## Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* Portfolio: https://yourwebsite.com
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https://linkedin.com/in/iketoke
+* Portfolio: https://deviyke.com
+* Email: [hello@deviyke.com](mailto:hello@deviyke.com)
 
 ---
 
